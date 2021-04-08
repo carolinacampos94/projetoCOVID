@@ -48,7 +48,7 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 > Equipe:
 > |Nome  | RA | Especialização|
 > |--|--|--|
-> | Brunna   | ----  | Saúde|
+> | Brunna Raphaelly Amaral da Silva   | 144566  | Saúde|
 > | Carolina Vieira Campos  | 263081  | Saúde|
 > | Gabriel Bianchin de Oliveira  | 230217  | Computação|
 > | Taciana Cruz  | 107132  | Computação|
