@@ -45,12 +45,12 @@ Segue abaixo o modelo de como devem ser documentadas as entregas.
 
 O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação [*Ciência e Visualização de Dados em Saúde*](https://github.com/datasci4health/home), oferecida no primeiro semestre de 2021, na Unicamp.
 
-> Incluir nome RA e foco de especialização de cada membro do grupo. Os grupos devem ter no máximo 5 integrantes e devem contar com pelo menos um aluno da área da saúde e um aluno de área afim à Computação (Ex.: Computação, Elétrica...)
+> Equipe:
 > |Nome  | RA | Especialização|
 > |--|--|--|
-> | Brunna   | 123456  | Saúde|
-> | Carolina  | 123456  | Saúde|
-> | Gabriel Bianchin  | 123456  | Computação|
+> | Brunna   | ----  | Saúde|
+> | Carolina  | ----  | Saúde|
+> | Gabriel Bianchin  | ----  | Computação|
 > | Taciana Cruz  | 107132  | Computação|
 
 
